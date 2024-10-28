@@ -14,7 +14,9 @@
   },
   "dependencies": {
     "pinia": "^2.2.4",
-    "vue": "^3.5.12"
+    "vue": "^3.5.12",
+    "vuetify": "^3.7.3",
+    "@jamescoyle/vue-icon": "^0.1.2"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
